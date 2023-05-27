@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Engineer , System Design , Microservice**
 
-- 💬 Ask me about **java , angular , NodeJS , Microservice , AWS , GCP**
+- 💬 Ask me about **Solution Architecture , System Design , java , angular , NodeJS , Microservice , AWS , GCP**
 
 - 📫 How to reach me **ahmedemad3@gmail.com**
 
